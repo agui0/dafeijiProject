@@ -1,8 +1,8 @@
 1， 使用ES6的部分知识点： （5分）
 
-	let, const, 解构赋值，，箭头函数 	 //  在bullet.js文件中修改
+	let, const, 解构赋值，，箭头函数 //在改动的JS文件夹下bullet.js文件中修改
 
-	class继承   //		在myplane.js文件中修改
+	class继承   //在 改动的JS 文件夹下myplane.js文件中修改
 
 
 2， 将飞机大战的css文件用Sass改造. （5分）
