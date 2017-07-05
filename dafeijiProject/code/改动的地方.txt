@@ -1,0 +1,19 @@
+1， 使用ES6的部分知识点： （5分）
+
+	let, const, 解构赋值，，箭头函数 	 //  在bullet.js文件中修改
+
+	class继承   //		在myplane.js文件中修改
+
+
+2， 将飞机大战的css文件用Sass改造. （5分）
+
+	文件改造在文件夹scss-css
+
+
+3, 使用gulp将 js和css代码 压缩. （5分）
+	
+	css文件夹  js文件夹
+
+
+4， 使用git，将飞机大战改造后的代码提交到github仓库. （5分）
+最后将github仓库地址发给我检查。
